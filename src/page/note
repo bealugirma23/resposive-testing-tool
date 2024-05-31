@@ -1,0 +1,16 @@
+  <iframe
+            title="tablet-view"
+            className="frame border"
+            width="1024"
+            height="768"
+            src={url}
+          ></iframe>
+        </div>{" "}
+        <div>
+          <iframe
+            title="desktop-view"
+            className="frame border"
+            width="1366"
+            height="768"
+            src={url}
+          ></iframe>

@@ -1,0 +1,3 @@
+- adding zooming funtionality
+- choosing the device and changing the iframe accordingly with soomth transition
+- boolean for showing and hiding the dropdown
